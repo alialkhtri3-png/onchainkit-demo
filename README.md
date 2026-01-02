@@ -238,7 +238,74 @@ Open an issue or submit a pull request.
 - 🔓 Fully open source
 
 ---
+# OnchainKit
 
+Freedom-first Web3 toolkit for real crypto usage.
+
+OnchainKit is an open-source toolkit built for people who can’t rely on banks,
+cards, or traditional payment systems — but crypto still works.
+
+---
+
+## 🚀 Why OnchainKit?
+
+Millions are locked out of payments.
+Banks fail. Cards get blocked.
+Crypto keeps working.
+
+OnchainKit is built for:
+- Restricted regions (Yemen, Africa, parts of Asia)
+- Developers who need real on-chain payments
+- Permissionless, open finance
+
+---
+
+## 🔧 What it offers
+
+- Wallet-first architecture
+- Native on-chain payments
+- No banks, no cards, no KYC
+- Works anywhere crypto works
+- EVM compatible (Ethereum, BSC, Polygon, Arbitrum, Optimism, Base)
+
+---
+
+## 🤝 Support & Funding
+
+This project is open for:
+- Crypto donations
+- Contributors (code, docs, ideas)
+- Early supporters
+
+💸 **Crypto donations**  
+ETH / EVM: `0x8F45A292C866A73C1408A77FA0e9FA6235BfC41C`
+
+---
+
+## 🌍 Vision
+
+Financial freedom is not optional.
+It’s not granted.
+It’s built — on-chain.
+
+---
+
+## 🛠 Project status
+
+🟢 Early stage  
+🧪 Real-world focused  
+🧱 Infrastructure-first  
+
+---
+
+## 🤍 Get involved
+
+- Star the repo
+- Open an issue
+- Contribute code or documentation
+- Share the project
+
+Even a single star helps push this forward.
 ## 🧠 Vision
 
 Financial freedom is not optional.  
