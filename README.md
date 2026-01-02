@@ -1,5 +1,14 @@
 # OnchainKit
 
+[Badges المشروع]
+[Donate Badge]
+
+# OnchainKit
+Freedom-first Web3 toolkit for real crypto usage.
+[![Donate](https://img.shields.io/badge/Donate-Crypto-blue)](#donate)
+
+# OnchainKit
+Freedom-first Web3 toolkit for real crypto usage.
  Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
 ![Web3](https://img.shields.io/badge/Web3-On--Chain-blueviolet)
 ![EVM](https://img.shields.io/badge/EVM-Compatible-blue)
@@ -160,6 +169,14 @@ It’s on-chain.
 Initial README
 
 onchainkit/
-├── README.md
+├── README.md## ❤️ Donate
+
+If you believe in permissionless finance and real on-chain usage,
+you can support the project via crypto:
+
+**ETH / EVM**
+0x8F45A292C866A73C1408A77FA0e9FA6235BfC41C
 ├── FUNDING.md  👈
+
+
 
