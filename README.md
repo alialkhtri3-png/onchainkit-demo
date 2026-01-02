@@ -85,7 +85,81 @@ Early supporters help shape the future of OnchainKit.
 ![Onchain Only](https://img.shields.io/badge/On--Chain-Only-blueviolet)
 
 [![Donate ETH / USDT](https://img.shields.io/badge/Donate-ETH%20%7C%20USDT-blue)](https://etherscan.io/address/0x8F45A292C866A73C1408A77FA0e9FA6235BfC41C)
+Ethereum (Mainnet)
+EVM-compatible chains
+(BSC, Polygon, Base, Arbitrum, Optimism)
+Tron (USDT-TRC20)
+Future: Solana, Bitcoin (via L2)
+Designed to work wherever crypto works — no borders, no blocks.
+🛣️ Roadmap | خارطة الطريق
+Phase 1 — Core (Now)
+✅ Wallet connection (EVM)
+✅ Onchain payments
+✅ Zero-KYC flow
+✅ Crypto donations support
+Phase 2 — Payments
+🔄 Multi-token support (ETH / USDT / USDC)
+🔄 Tron & stablecoin flows
+🔄 Simple payment APIs
+🔄 QR-based payments
+Phase 3 — Real World
+⏳ Merchant payment tools
+⏳ Open-source checkout
+⏳ Donation widgets
+⏳ Mobile-first flows
+Phase 4 — Freedom Layer
+⏳ Cross-chain payments
+⏳ Offline-first UX
+⏳ Community governance
+⏳ Grant & sponsor integration
+💚 Why Support This Project? | لماذا تدعم المشروع؟
+OnchainKit is built for people locked out of the financial system.
+Your support helps developers in restricted regions build, deploy, and receive payments freely.
+Financial freedom should not require permission.Support OnchainKit 💚
 
+OnchainKit is an open-source project built for financial freedom,
+focused on real-world crypto payments and restricted regions.
+
+Your support helps keep this project independent, permissionless,
+and accessible to everyone.
+
+---
+
+## 💸 Crypto Donations (Preferred)
+
+**Ethereum / EVM**
+0x8F45A292C866A73C1408A77FA0e9FA6235BfC41C
+Supports:
+- ETH
+- USDT
+- USDC
+- Any EVM token
+
+---
+
+## 🌍 Why Support?
+
+- Build payment tools without banks
+- Support developers in restricted countries
+- Enable real on-chain commerce
+- Keep finance permissionless
+
+> Financial freedom should not require permission.
+
+---
+
+## 🤝 Contribute
+
+- Code contributions
+- DocumentationAdd FUNDING.md 
+- Spreading the project
+
+Thank you for supporting open, borderless finance.Add FUNDING.md for crypto donations and supporters
 Financial freedom is not optional.
 It’s on-chain.
 Initial README
+
+onchainkit/
+├── README.md
+├── FUNDING.md  👈
+
