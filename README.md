@@ -1,5 +1,7 @@
 [![Donate](https://img.shields.io/badge/Donate-Crypto-green.svg)](https://alialkhtri3-png.github.io/onchainkit-demo/)
 # OnchainKit
+
+![Donate](https://img.shields.io/badge/Donate-ETH%20%2F%20EVM-green
 Freedom-first Web3 toolkit for real crypto usage.
 ## 🚀 Why OnchainKit?
 Millions are locked out of payments.
@@ -322,3 +324,24 @@ Support the development of **OnchainKit** via crypto donations.
 `0x8F45A292C866A73C1408A77FA0e9FA6235BfC41C`
 
 Thank you for supporting permissionless finance.
+# OnchainKit
+
+Freedom-first Web3 toolkit for real crypto usage.  
+Built for restricted regions.
+
+🌍 Live demo:  
+https://alialkhtri3-png.github.io/onchainkit-demo/
+
+---
+
+## 💸 Donate
+
+Support the development of **OnchainKit** via crypto donations.
+
+**ETH / EVM (Ethereum, BSC, Polygon, Arbitrum, Optimism, Base):**
+
+`0x8F45A292C866A73C1408A77FA0e9FA6235BfC41C`
+
+🙏 Every contribution helps keep this project alive.
+
+
