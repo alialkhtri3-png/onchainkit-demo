@@ -313,4 +313,12 @@ It is not granted.
 It is **built — on-chain**.
 
 https://alialkhtri3-png.github.io/onchainkit-demo/
+## 💸 Donate
 
+Support the development of **OnchainKit** via crypto donations.
+
+**ETH / EVM (Ethereum, BSC, Polygon, Arbitrum, Optimism, Base):**
+
+`0x8F45A292C866A73C1408A77FA0e9FA6235BfC41C`
+
+Thank you for supporting permissionless finance.
