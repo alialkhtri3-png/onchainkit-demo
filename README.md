@@ -1,4 +1,4 @@
-
+[![Donate](https://img.shields.io/badge/Donate-Crypto-green.svg)](https://alialkhtri3-png.github.io/onchainkit-demo/)
 # OnchainKit
 Freedom-first Web3 toolkit for real crypto usage.
 ## 🚀 Why OnchainKit?
