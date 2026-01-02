@@ -1,23 +1,3 @@
-# OnchainKit
-
-[Badges المشروع]
-[Donate Badge]
-
-# OnchainKit
-Freedom-first Web3 toolkit for real crypto usage.
-[![Donate](https://img.shields.io/badge/Donate-Crypto-blue)](#donate)
-
-# OnchainKit
-Freedom-first Web3 toolkit for real crypto usage.
- Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
-![Web3](https://img.shields.io/badge/Web3-On--Chain-blueviolet)
-![EVM](https://img.shields.io/badge/EVM-Compatible-blue)
-![No KYC](https://img.shields.io/badge/KYC-None-black)
-![Permissionless](https://img.shields.io/badge/Permissionless-Yes-orange)
-![Crypto Payments](https://img.shields.io/badge/Crypto-Payments-success)
-![Freedom First](https://img.shields.io/badge/Freedom-First-red)]
-
-[![Donate Crypto](https://img.shields.io/badge/Donate-Crypto-green)](https://etherscan.io/address/0x8F45A292C866A73C1408A77FA0e9FA6235BfC41C)
 
 # OnchainKit
 Freedom-first Web3 toolkit for real crypto usage.
@@ -177,6 +157,93 @@ you can support the project via crypto:
 **ETH / EVM**
 0x8F45A292C866A73C1408A77FA0e9FA6235BfC41C
 ├── FUNDING.md  👈
+
+<!-- Badges -->
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
+![Web3](https://img.shields.io/badge/Web3-On--Chain-blueviolet)
+![EVM](https://img.shields.io/badge/EVM-Compatible-blue)
+![KYC](https://img.shields.io/badge/KYC-None-black)
+![Permissionless](https://img.shields.io/badge/Permissionless-Yes-orange)
+![Crypto Payments](https://img.shields.io/badge/Crypto-Payments-success)
+![Freedom First](https://img.shields.io/badge/Freedom-First-red)
+
+# OnchainKit
+
+**Freedom-first Web3 toolkit for real crypto usage.**
+
+OnchainKit is built to enable **real on-chain payments** without banks, cards, or KYC —  
+especially for people in **restricted regions** where traditional finance fails.
+
+---
+
+## 🚀 Why OnchainKit?
+
+- Millions are excluded from global payments  
+- Banks fail, accounts are frozen, cards are blocked  
+- Crypto still works — permissionless and borderless  
+
+OnchainKit exists to turn crypto into **usable financial infrastructure**, not speculation.
+
+---
+
+## 🌍 Built For
+
+- Restricted countries (Yemen, Africa, parts of Asia)
+- Developers building real Web3 payment flows
+- Open, permissionless finance — no gatekeepers
+
+---
+
+## 🔧 Features
+
+- Wallet-first architecture  
+- Native on-chain payments  
+- No banks, no cards, no KYC  
+- Works anywhere crypto works  
+- EVM-compatible by design  
+
+---
+
+## 💸 Donations & Support
+
+Support development via crypto donations:
+
+**ETH / EVM address:**
+0x8F45A292C866A73C1408A77FA0e9FA6235BfC41C
+Supported:
+- Ethereum
+- USDT / USDC
+- Any EVM-compatible token  
+(BSC, Polygon, Arbitrum, Optimism, Base)
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome:
+- Code
+- Documentation
+- Ideas & feedback
+- Spreading the project
+
+Open an issue or submit a pull request.
+
+---
+
+## 🌱 Project Status
+
+- 🟢 Early stage
+- 🧪 Real-world focused
+- 🧱 Infrastructure-first
+- 🔓 Fully open source
+
+---
+
+## 🧠 Vision
+
+Financial freedom is not optional.  
+It is not granted.  
+It is **built — on-chain**.
 
 
 
